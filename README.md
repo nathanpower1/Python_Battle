@@ -9,7 +9,6 @@ Welcome to Python Battle, a thrilling turn-based text adventure where you comman
 - [Gameplay](#gameplay)
 - [Contributing](#contributing)
 - [Credits](#credits)
-- [License](#license)
 
 ## Introduction
 
